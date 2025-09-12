@@ -24,7 +24,7 @@ def add_numbers(a, b):
 
 print(add_numbers(5, 3))
 
-
+```
 ## AI Response:
 It seems your function is subtracting instead of adding.
 Hint: Check the operator you used inside your function. Can you use the one that combines two numbers to give their sum?
@@ -61,7 +61,7 @@ Friendly, patient, and supportive.
 
 Focuses on learning rather than just fixing code.
 
-Balancing bug identification and guidance:
+# Balancing bug identification and guidance:
 
 AI first points out the problem briefly.
 
@@ -82,5 +82,8 @@ Provide your buggy Python code in place of [Insert buggy Python code here].
 
 Give this prompt to an AI (LLM) to receive hints and guidance.
 
+---
+
 Author: Samarth Tiwari
+
 Submission for: Python Screening Task 2
