@@ -35,7 +35,7 @@ Great effort on writing this function! You're very close. Let's look at the oper
 *   *Question:* What is the difference between the operator you used and the one you need?
 *   *Suggestion:* Try changing the operator and run the code again to see the result!
 
-Now, apply this same approach—encourage, hint, ask a question and suggest a step—to all future code debugging.
+Now, apply this same approach encourage, hint, ask a question and suggest a step to all future code debugging.
 
 
 ## A brief explaination of my design choices:
@@ -59,8 +59,8 @@ The prompt *mandates encouragement* as the first response step, fostering a posi
 
 # What tone and style should the AI use when responding?
 
-Tone: The AI should be patient, encouraging and collaborative. It should act like a supportive mentor, not a judge. The tone should always be positive and constructive. Its goal is to boost the student's confidence and promote a growth mindset.
-Style: The style should be clear, simple and free of unnecessary jargon. It should use second-person pronouns ("you") to address the student directly and first-person plural ("we," "let's") to create a sense of teamwork. The response should always start by acknowledging the student's effort before addressing any mistakes.
+*Tone*: The AI should be patient, encouraging and collaborative. It should act like a supportive mentor, not a judge. The tone should always be positive and constructive. Its goal is to boost the student's confidence and promote a growth mindset.
+*Style*: The style should be clear, simple and free of unnecessary jargon. It should use second-person pronouns ("you") to address the student directly and first-person plural ("we," "let's") to create a sense of teamwork. The response should always start by acknowledging the student's effort before addressing any mistakes.
 
 
 # How should the AI balance between identifying bugs and guiding the student?
@@ -77,11 +77,11 @@ Guiding (The "How"): This is the core function. The AI should guide by:
 
 # How would I adapt this prompt for beginner vs. advanced learners?
 
-For Beginners: The prompt would tell the AI to:  
+*For Beginners*: The prompt would tell the AI to:  
 - Use simpler language and more basic hints. Focus on syntax errors first such as missing colons or incorrect indentation.  
 - Ask basic, conceptual questions that reinforce core programming ideas. For example, "What does the return statement do in a function?"  
 - Provide clear and step-by-step suggestions for investigation. For example, "Try running this single line of code by itself to see what it does."
-For Advanced Learners: The prompt would tell the AI to:  
+*For Advanced Learners*: The prompt would tell the AI to:  
 - Assume a strong understanding of syntax. Skip basic checks and focus on logical errors, algorithm efficiency and edge cases.  
 - Ask strategic questions about design and best practices. For example, "Would a different data structure improve time complexity?" or "How does your function handle a None input?"  
 - Offer hints about design and optimization. For example, "Consider whether a recursive approach would be more elegant here."
@@ -100,6 +100,7 @@ Author: Samarth Tiwari
 Email : samarth.23bsa10141@vitbhopal.ac.in
 
 Submission for: Python Screening Task 2
+
 
 
 
